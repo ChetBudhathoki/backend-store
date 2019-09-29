@@ -45,8 +45,9 @@ A Node app for customers to view items and place orders.
 
 ![Screen1](assets/images/BAmazonCustomerCode.jpeg)
 ![Screen2](assets/images/BAmazonCustomerCodeFunction.jpeg)
-![Screen3](assets/images/BAmazonCustomerCodeFunctionAdvanced.jpeg)
-![Screen4](assets/images/BAmazonCustomerCodeEnd.jpeg)
+![Screen2](assets/images/BAmazonCustomerCodeFunctionAdvanced.jpeg)
+![Screen2](assets/images/BAmazonCustomerCodeFunctionEnd.jpeg)
+
 
 ## Author
 Chet Budhathoki
