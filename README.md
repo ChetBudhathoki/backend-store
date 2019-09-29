@@ -43,10 +43,10 @@ A Node app for customers to view items and place orders.
 
 ## Screen Shots
 
-![Screen1](BACKEND-STORE/assets/images/BAmazonCustomerCode.jpeg)
-![Screen2](BACKEND-STORE/assets/images/BAmazonCustomerCodeFunction.jpeg)
-![Screen3](BACKEND-STORE/assets/images/BAmazonCustomerCodeFunctionAdvanced.jpeg)
-![Screen4](BACKEND-STORE/assets/images/BAmazonCustomerCodeEnd.jpeg)
+![Screen1](assets/images/BAmazonCustomerCode.jpeg)
+![Screen2](assets/images/BAmazonCustomerCodeFunction.jpeg)
+![Screen3](assets/images/BAmazonCustomerCodeFunctionAdvanced.jpeg)
+![Screen4](assets/images/BAmazonCustomerCodeEnd.jpeg)
 
 ## Author
 Chet Budhathoki
